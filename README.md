@@ -6,7 +6,8 @@ These are my top 3 movies
 2. TMNT(2014 Film)
 3. Rocky Balboa
 
-These are the list of my favorite dishes my mom can make
+These are the list of my favorite dishes my mom can make:
+
 - Pork Adobo
 - Kinilaw
 - BBQ Liempo
